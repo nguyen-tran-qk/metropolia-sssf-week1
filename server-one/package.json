@@ -1,0 +1,22 @@
+{
+  "name": "server-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nguyen-tran-qk/metropolia-sssf-week1.git"
+  },
+  "author": "nguyetr@metropolia.fi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyen-tran-qk/metropolia-sssf-week1/issues"
+  },
+  "homepage": "https://github.com/nguyen-tran-qk/metropolia-sssf-week1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
