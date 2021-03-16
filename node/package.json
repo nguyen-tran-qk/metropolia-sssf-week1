@@ -1,0 +1,13 @@
+{
+  "name": "week1-node",
+  "version": "1.0.0",
+  "description": "",
+  "author": "nguyetr@metropolia.fi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "nodemon script.js"
+  }
+}
